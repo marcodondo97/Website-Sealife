@@ -31,7 +31,7 @@ Screenshot4 <br>
 _________________________________________________________________________________________________
 <br>
 
-[Visualizza la presentazione PDF](Resources/DESIGNSYSTEM.pdf)
+[Design System Here](Resources/DESIGNSYSTEM.pdf)
  
  
  
