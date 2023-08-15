@@ -13,18 +13,19 @@ The following website has been codede only on the frontend part.
 http://sealife.chickenkiller.com/
 <br>
 <h2> Images </h2>
-<img src="Resources/screenshot-1.jpg" width="60%"/>
-Responsive design Google Audits
-
-<img src="Resources/screenshot-2.jpg" width="60%"/>
+<img src="Resources/screenshot-1.png" width="60%"/>
 Screenshot1
 
+<img src="Resources/screenshot-2.png" width="60%"/>
+Screenshot2
 
-<img src="Resources/screenshot-3.jpg" width="60%"/>
- Screenshot2
+
+<img src="Resources/screenshot-3.png" width="60%"/>
+ Screenshot3
  
-<img src="Resources/screenshot-4.jpg" width="60%"/>
- Home page
+<img src="Resources/screenshot-4.png" width="60%"/>
+Screenshot4
+[Visualizza il PDF](Resources/DESIGN SYSTEM.pdf)
  
  
  
