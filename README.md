@@ -31,7 +31,6 @@ Screenshot4 <br>
 _________________________________________________________________________________________________
 <br>
 
-[Design System Here](Resources/DESIGNSYSTEM.pdf)
  
  
  
