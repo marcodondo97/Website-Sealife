@@ -1,10 +1,10 @@
 # Website-sealife
 
 <h2>Introduction </h2>
-The project is about making a full responsive website as part of a university assignment. This website is an important part of the larger academic project, demonstrating the practical use of skills and knowledge.
-
+The project is about making a full responsive website as part of a university assignment.
 <h2>Description</h2>
-The website started as a Figma design (Wireframes and Mockups) and then was brought to life using HTML, CSS, Bootstrap5, and JavaScript. It's a frontend project only.
+The website started as a Figma design (wireframes and mockups) and then was built using HTML, CSS, Bootstrap5, and JavaScript. 
+It's a frontend project only.
 
 <br>
 <br>
