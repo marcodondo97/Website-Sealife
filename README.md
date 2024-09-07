@@ -10,7 +10,7 @@ It's a frontend project only.
 <br>
 <b>Click this link to see and try the website</b>
 <br>
-http://sealife.chickenkiller.com/
+http://sealife.hopto.org/
 <br>
 <h2> Images </h2>
 <img src="Resources/screenshot-3.png" width="60%"/>
