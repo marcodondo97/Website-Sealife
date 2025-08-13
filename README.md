@@ -12,7 +12,7 @@ It's a frontend project only.
 <br>
 http://sealife.hopto.org/
 <br>
-<h2> Images </h2>
+<h2> Result </h2>
 <img src="Resources/screenshot-3.png" width="60%"/>
 Screenshot1 <br>
 _________________________________________________________________________________________________
