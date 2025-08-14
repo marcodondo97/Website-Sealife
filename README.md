@@ -1,4 +1,4 @@
-# Website-sealife
+# Sealife Website
 
 <h2>Introduction </h2>
 The project is about making a full responsive website as part of a university assignment.
