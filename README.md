@@ -1,8 +1,9 @@
 # Sealife Website
 
-<h2>Introduction </h2>
-The project is about making a full responsive website as part of a university assignment.
-<h2>Description</h2>
+## Introduction
+The project is a frontend-only responsive website for a university assignment serving as an MVP for a startup focused on restoring marine flora by selling and planting corals.
+
+## Description
 The website started as a Figma design (wireframes and mockups) and then was built using HTML, CSS, Bootstrap5, and JavaScript. 
 It's a frontend project only.
 
@@ -12,22 +13,23 @@ It's a frontend project only.
 <br>
 http://sealife.hopto.org/
 <br>
-<h2> Result </h2>
+
+## Result
 <img src="Resources/screenshot-3.png" width="60%"/>
-Screenshot1 <br>
+
 _________________________________________________________________________________________________
 <br>
 <img src="Resources/screenshot-4.png" width="60%"/>
-Screenshot2 <br>
+
 _________________________________________________________________________________________________
 <br>
 
 <img src="Resources/screenshot-1.png" width="30%"/>
-Screenshot3 <br>
+
 _________________________________________________________________________________________________
  <br>
 <img src="Resources/screenshot-2.png" width="30%"/>
-Screenshot4 <br>
+
 _________________________________________________________________________________________________
 <br>
 
