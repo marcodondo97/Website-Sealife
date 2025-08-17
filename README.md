@@ -11,7 +11,7 @@ It's a frontend project only.
 <br>
 <b>Click this link to see and try the website</b>
 <br>
-http://sealife.hopto.org/
+https://sealife.hopto.org
 <br>
 
 ## Result
